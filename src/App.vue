@@ -20,7 +20,7 @@ export default {
   data() {
     return {
       conditions: [
-        { label: 'Условие', placeholder: 'Статус карты лояльности', value: 1 },
+        // { label: 'Условие', placeholder: 'Статус карты лояльности', value: 1 },
       ],
       dateFromAllConditions: [
         {
